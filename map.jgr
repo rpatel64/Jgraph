@@ -1,0 +1,7 @@
+newgraph
+	xaxis min -86.98 max -83.75 size 7
+	yaxis min 35.769999999999996 max 36.370000000000005 size 5
+
+newstring hjl vjc x -86.78 y 36.17 : Nashville
+newstring hjl vjc x -83.95 y 35.97 : Knoxville
+newstring hjl vjc x -85.36500000000001 y 36.07 : 195.5369387169036 miles

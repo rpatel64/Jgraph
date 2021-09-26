@@ -1,0 +1,428 @@
+Adams,36.58,-87.06
+Adamsville,35.26,-88.39
+Alamo,35.78,-89.12
+Alcoa,35.81,-83.97
+Alexandria,36.08,-86.04
+Algood,36.2,-85.45
+Allardt,36.38,-84.88
+Altamont,35.43,-85.74
+Andersonville,36.2,-84.03
+Apison,35.01,-85.01
+Ardmore,35,-86.86
+Arlington,35.26,-89.67
+Ashland City,36.26,-87.04
+Athens,35.45,-84.6
+Atoka,35.42,-89.79
+Atwood,35.98,-88.67
+Auburntown,35.95,-86.1
+Baileyton,36.33,-82.83
+Baneberry,36.05,-83.28
+Banner Hill,36.12,-82.42
+Bartlett,35.23,-89.82
+Baxter,36.15,-85.64
+Bean Station,36.33,-83.29
+Beersheba Springs,35.46,-85.67
+Bell Buckle,35.59,-86.35
+Belle Meade,36.1,-86.86
+Bells,35.72,-89.09
+Benton,35.17,-84.65
+Berry Hill,36.12,-86.77
+Bethel Springs,35.23,-88.61
+Bethpage,36.48,-86.31
+Big Sandy,36.23,-88.09
+Blaine,36.15,-83.69
+Bloomingdale,36.58,-82.51
+Blountville,36.53,-82.33
+Bluff City,36.46,-82.28
+Bolivar,35.27,-89.01
+Bon Aqua Junction,35.93,-87.31
+Bowman,36.06,-85.03
+Braden,35.37,-89.57
+Bradford,36.07,-88.82
+Bransford,36.51,-86.29
+Brentwood,35.99,-86.78
+Brighton,35.48,-89.73
+Bristol,36.56,-82.21
+Brownsville,35.59,-89.26
+Bruceton,36.03,-88.25
+Bulls Gap,36.26,-83.08
+Burlison,35.56,-89.78
+Burns,36.05,-87.3
+Byrdstown,36.57,-85.13
+Calhoun,35.3,-84.75
+Camden,36.07,-88.1
+Carthage,36.26,-85.94
+Caryville,36.33,-84.22
+Castalian Springs,36.4,-86.31
+Cedar Hill,36.55,-87
+Celina,36.55,-85.5
+Centertown,35.73,-85.92
+Centerville,35.8,-87.46
+Central,36.33,-82.29
+Chapel Hill,35.63,-86.69
+Charleston,35.29,-84.76
+Charlotte,36.18,-87.35
+Chattanooga,35.07,-85.25
+Chesterfield,35.65,-88.27
+Church Hill,36.52,-82.71
+Clarkrange,36.19,-85.01
+Clarksburg,35.87,-88.39
+Clarksville,36.57,-87.34
+Cleveland,35.18,-84.87
+Clifton,35.38,-87.99
+Clinton,36.1,-84.13
+Coalfield,36.02,-84.44
+Coalmont,35.34,-85.71
+Collegedale,35.05,-85.05
+Collierville,35.06,-89.69
+Collinwood,35.17,-87.74
+Colonial Heights,36.48,-82.51
+Columbia,35.62,-87.05
+Cookeville,36.15,-85.51
+Coopertown,36.41,-86.97
+Copperhill,35,-84.38
+Cornersville,35.37,-86.86
+Cottage Grove,36.38,-88.48
+Cottontown,36.45,-86.53
+Covington,35.57,-89.65
+Cowan,35.16,-86.01
+Crab Orchard,35.91,-84.88
+Cross Plains,36.54,-86.68
+Crossville,35.95,-85.03
+Crump,35.23,-88.34
+Cumberland City,36.38,-87.64
+Cumberland Gap,36.6,-83.67
+Dandridge,36.03,-83.43
+Darden,35.64,-88.23
+Dayton,35.49,-85.01
+Decatur,35.53,-84.79
+Decaturville,35.58,-88.12
+Decherd,35.22,-86.08
+Dickson,36.06,-87.37
+Dodson Branch,36.31,-85.53
+Dover,36.48,-87.84
+Dowelltown,36.01,-85.94
+Doyle,35.86,-85.51
+Dresden,36.28,-88.69
+Ducktown,35.04,-84.39
+Dunlap,35.37,-85.39
+Dyer,36.07,-88.99
+Dyersburg,36.05,-89.38
+Eagleton Village,35.79,-83.94
+Eagleville,35.74,-86.66
+East Cleveland,35.15,-84.85
+East Ridge,35,-85.23
+Eastview,35.09,-88.55
+Elgin,36.33,-84.61
+Elizabethton,36.34,-82.24
+Elkton,35.06,-86.9
+Englewood,35.42,-84.49
+Enville,35.39,-88.43
+Erin,36.32,-87.7
+Erwin,36.15,-82.41
+Estill Springs,35.27,-86.14
+Ethridge,35.32,-87.3
+Etowah,35.34,-84.53
+Eva,36.07,-88.01
+Fairfield,36.62,-86.34
+Fairfield Glade,36,-84.87
+Fairgarden,35.89,-83.41
+Fairmount,35.18,-85.33
+Fairview,35.98,-87.13
+Fall Branch,36.42,-82.62
+Falling Water,35.2,-85.26
+Farragut,35.87,-84.18
+Fayetteville,35.15,-86.56
+Fincastle,36.4,-84.05
+Finger,35.36,-88.62
+Flat Top Mountain,35.33,-85.2
+Flintville,35.06,-86.42
+Forest Hills,36.07,-86.84
+Franklin,35.92,-86.85
+Friendship,35.91,-89.24
+Friendsville,35.75,-84.13
+Gadsden,35.78,-88.99
+Gainesboro,36.36,-85.65
+Gallatin,36.38,-86.47
+Gallaway,35.33,-89.61
+Garland,35.58,-89.75
+Gates,35.84,-89.41
+Gatlinburg,35.72,-83.49
+Germantown,35.08,-89.78
+Gibson,35.87,-88.84
+Gilt Edge,35.53,-89.83
+Gleason,36.22,-88.61
+Goodlettsville,36.33,-86.7
+Gordonsville,36.18,-85.93
+Graball,36.48,-86.44
+Grand Junction,35.05,-89.19
+Gray,36.42,-82.48
+Graysville,35.45,-85.08
+Green Hill,36.23,-86.57
+Greenback,35.65,-84.17
+Greenbrier,36.42,-86.8
+Greeneville,36.17,-82.82
+Greenfield,36.16,-88.8
+Grimsley,36.28,-85
+Gruetli-Laager,35.37,-85.64
+Guys,35.02,-88.54
+Halls,35.88,-89.4
+Harriman,35.93,-84.56
+Harrison,35.13,-85.15
+Harrogate,36.57,-83.65
+Hartsville/Trousdale County,36.39,-86.16
+Helenwood,36.43,-84.55
+Henderson,35.44,-88.65
+Hendersonville,36.31,-86.6
+Henning,35.68,-89.58
+Henry,36.2,-88.41
+Hickory Valley,35.15,-89.13
+Hillsboro,35.41,-85.96
+Hohenwald,35.55,-87.55
+Hollow Rock,36.04,-88.27
+Hopewell,35.24,-84.91
+Hornbeak,36.34,-89.3
+Hornsby,35.23,-88.83
+Humboldt,35.83,-88.9
+Hunter,36.4,-82.15
+Huntingdon,36,-88.42
+Huntland,35.06,-86.27
+Huntsville,36.41,-84.5
+Iron City,35.03,-87.58
+Jacksboro,36.34,-84.19
+Jackson,35.65,-88.83
+Jamestown,36.43,-84.93
+Jasper,35.07,-85.62
+Jefferson City,36.12,-83.48
+Jellico,36.56,-84.14
+Johnson City,36.34,-82.38
+Jonesborough,36.3,-82.48
+Kenton,36.2,-89.02
+Kimball,35.05,-85.67
+Kingsport,36.53,-82.55
+Kingston,35.87,-84.5
+Kingston Springs,36.08,-87.1
+Knoxville,35.97,-83.95
+La Follette,36.37,-84.13
+La Grange,35.05,-89.24
+La Vergne,36.02,-86.56
+Lafayette,36.52,-86.03
+Lake City,36.22,-84.16
+Lake Tansi,35.87,-85.06
+Lakeland,35.26,-89.73
+Lakesite,35.2,-85.14
+Lakewood,36.24,-86.64
+Lakewood Park,35.65,-86.14
+Lawrenceburg,35.25,-87.33
+Lebanon,36.2,-86.35
+Lenoir City,35.81,-84.28
+Lewisburg,35.45,-86.79
+Lexington,35.66,-88.4
+Liberty,36.01,-85.98
+Linden,35.61,-87.84
+Livingston,36.39,-85.33
+Lobelville,35.75,-87.8
+Lone Oak,35.2,-85.37
+Lookout Mountain,34.99,-85.35
+Loretto,35.08,-87.44
+Loudon,35.74,-84.36
+Louisville,35.83,-84.06
+Luttrell,36.21,-83.75
+Lyles,35.92,-87.34
+Lynchburg Moore County metropolitan government,35.28,-86.36
+Lynnville,35.38,-87.01
+Madisonville,35.52,-84.36
+Manchester,35.46,-86.08
+Martin,36.34,-88.85
+Maryville,35.75,-83.98
+Mascot,36.07,-83.76
+Mason,35.41,-89.54
+Maury City,35.81,-89.22
+Maynardville,36.25,-83.81
+McEwen,36.11,-87.64
+McKenzie,36.14,-88.51
+McLemoresville,35.99,-88.58
+McMinnville,35.69,-85.78
+Medina,35.82,-88.79
+Medon,35.46,-88.86
+Memphis,35.1,-89.98
+Michie,35.06,-88.43
+Middle Valley,35.19,-85.2
+Middleton,35.06,-88.89
+Midtown,35.88,-84.57
+Milan,35.91,-88.76
+Milledgeville,35.38,-88.37
+Millersville,36.4,-86.71
+Millington,35.34,-89.89
+Minor Hill,35.04,-87.17
+Mitchellville,36.63,-86.54
+Monteagle,35.24,-85.85
+Monterey,36.14,-85.26
+Mooresburg,36.35,-83.24
+Morrison,35.6,-85.91
+Morristown,36.2,-83.3
+Moscow,35.06,-89.39
+Mosheim,36.2,-82.96
+Mount Carmel,36.56,-82.66
+Mount Juliet,36.2,-86.52
+Mount Pleasant,35.55,-87.19
+Mountain City,36.47,-81.8
+Mowbray Mountain,35.28,-85.22
+Munford,35.45,-89.81
+Murfreesboro,35.85,-86.41
+Nashville,36.17,-86.78
+New Deal,36.51,-86.56
+New Hope,35,-85.66
+New Johnsonville,36.02,-87.97
+New Market,36.11,-83.55
+New Tazewell,36.44,-83.61
+New Union,35.53,-86.08
+Newbern,36.12,-89.27
+Newport,35.96,-83.2
+Niota,35.52,-84.55
+Nolensville,35.96,-86.68
+Normandy,35.45,-86.26
+Norris,36.21,-84.06
+Oak Grove,36.42,-82.43
+Oak Grove,36.57,-86.38
+Oak Hill,36.07,-86.79
+Oak Ridge,35.96,-84.29
+Oakdale,35.99,-84.56
+Oakland,35.23,-89.54
+Obion,36.26,-89.19
+Oliver Springs,36.04,-84.33
+Olivet,35.2,-88.19
+Oneida,36.52,-84.51
+Ooltewah,35.07,-85.05
+Orlinda,36.59,-86.7
+Orme,35.01,-85.8
+Palmer,35.36,-85.57
+Paris,36.29,-88.31
+Park City,35.08,-86.58
+Parker's Crossroads,35.79,-88.39
+Parrottsville,36.01,-83.09
+Parsons,35.65,-88.12
+Pegram,36.1,-87.06
+Pelham,35.33,-85.87
+Petersburg,35.32,-86.64
+Petros,36.1,-84.45
+Philadelphia,35.68,-84.4
+Pigeon Forge,35.8,-83.56
+Pikeville,35.6,-85.2
+Pine Crest,36.3,-82.31
+Piperton,35.05,-89.61
+Pittman Center,35.76,-83.39
+Plainview,36.18,-83.79
+Pleasant Hill,35.98,-85.2
+Pleasant View,36.39,-87.05
+Portland,36.59,-86.52
+Powells Crossroads,35.18,-85.48
+Pulaski,35.19,-87.04
+Puryear,36.44,-88.33
+Ramer,35.07,-88.62
+Red Bank,35.11,-85.3
+Red Boiling Springs,36.53,-85.85
+Riceville,35.39,-84.7
+Ridgely,36.26,-89.48
+Ridgeside,35.04,-85.25
+Ridgetop,36.4,-86.77
+Ripley,35.74,-89.54
+Rives,36.36,-89.05
+Roan Mountain,36.19,-82.07
+Robbins,36.35,-84.58
+Rockford,35.83,-83.94
+Rockwood,35.87,-84.67
+Rogersville,36.41,-83
+Rossville,35.03,-89.56
+Rural Hill,36.12,-86.51
+Rutherford,36.13,-88.99
+Rutledge,36.28,-83.52
+Sale Creek,35.39,-85.09
+Saltillo,35.38,-88.22
+Samburg,36.38,-89.35
+Sardis,35.44,-88.29
+Saulsbury,35.05,-89.09
+Savannah,35.22,-88.24
+Scotts Hill,35.52,-88.25
+Selmer,35.17,-88.6
+Sevierville,35.89,-83.57
+Sewanee,35.2,-85.92
+Seymour,35.88,-83.77
+Shackle Island,36.38,-86.62
+Sharon,36.23,-88.83
+Shelbyville,35.5,-86.45
+Signal Mountain,35.14,-85.35
+Silerton,35.34,-88.81
+Slayden,36.29,-87.47
+Smithville,35.96,-85.82
+Smyrna,35.97,-86.52
+Sneedville,36.54,-83.21
+Soddy-Daisy,35.26,-85.17
+Somerville,35.23,-89.38
+South Carthage,36.24,-85.96
+South Cleveland,35.11,-84.91
+South Fulton,36.49,-88.88
+South Pittsburg,35.02,-85.71
+Sparta,35.93,-85.47
+Spencer,35.74,-85.46
+Spring City,35.69,-84.86
+Spring Hill,35.74,-86.91
+Springfield,36.49,-86.87
+Spurgeon,36.44,-82.46
+St. Joseph,35.03,-87.5
+Stanton,35.46,-89.4
+Stantonville,35.16,-88.43
+Summertown,35.43,-87.31
+Sunbright,36.24,-84.68
+Surgoinsville,36.47,-82.86
+Sweetwater,35.6,-84.47
+Tazewell,36.46,-83.57
+Telford,36.25,-82.55
+Tellico Plains,35.37,-84.3
+Tellico Village,35.7,-84.27
+Tennessee Ridge,36.32,-87.76
+Thompson's Station,35.81,-86.9
+Three Way,35.77,-88.86
+Tiptonville,36.39,-89.47
+Toone,35.36,-88.95
+Townsend,35.68,-83.75
+Tracy City,35.26,-85.75
+Trenton,35.97,-88.95
+Trezevant,36.01,-88.62
+Trimble,36.2,-89.19
+Troy,36.34,-89.16
+Tullahoma,35.37,-86.22
+Tusculum,36.18,-82.75
+Unicoi,36.22,-82.33
+Union City,36.43,-89.05
+Unionville,35.61,-86.57
+Vanleer,36.24,-87.45
+Viola,35.54,-85.86
+Vonore,35.6,-84.24
+Walden,35.16,-85.31
+Walland,35.73,-83.81
+Walnut Grove,36.49,-86.61
+Walnut Grove,35.05,-88.06
+Walnut Hill,36.57,-82.27
+Walterhill,35.96,-86.37
+Wartburg,36.1,-84.59
+Wartrace,35.53,-86.33
+Watauga,36.37,-82.29
+Watertown,36.1,-86.14
+Waverly,36.09,-87.79
+Waynesboro,35.32,-87.76
+Westmoreland,36.56,-86.24
+White Bluff,36.1,-87.21
+White House,36.46,-86.67
+White Pine,36.11,-83.3
+Whiteville,35.32,-89.15
+Whitwell,35.19,-85.52
+Wildwood,35.8,-83.87
+Wildwood Lake,35.09,-84.85
+Williston,35.16,-89.38
+Winchester,35.19,-86.11
+Winfield,36.56,-84.45
+Woodbury,35.82,-86.07
+Woodland Mills,36.48,-89.11
+Wrigley,35.9,-87.35
+Yorkville,36.1,-89.12
